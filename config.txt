@@ -1,0 +1,5 @@
+API:
+Run command node server.js
+
+Flutter:
+change base url in lib > services > config.dart to local ip
